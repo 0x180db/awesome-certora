@@ -18,5 +18,6 @@ A curated list of useful resources, tools, guides, and patterns for working with
 - [Formal Verification: Securing ERC-4626 Vaults with Certora Prover](https://zokyo.io/blog/formal-verification-with-certora-prover/)
   
 ## Open Source Verified Projects
+- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/certora)
 - [Aave V3](https://github.com/aave/aave-v3-core/tree/master/certora)
 - [Morpho Blue Protocol](https://github.com/morpho-org/morpho-blue/tree/main/certora)
