@@ -21,3 +21,4 @@ A curated list of useful resources, tools, guides, and patterns for working with
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/certora)
 - [Aave V3](https://github.com/aave/aave-v3-core/tree/master/certora)
 - [Morpho Blue Protocol](https://github.com/morpho-org/morpho-blue/tree/main/certora)
+- [Badger eBTC](https://github.com/alexzoid-eth/2023-10-badger-fv/tree/main/certora)
