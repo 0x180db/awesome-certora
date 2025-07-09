@@ -8,6 +8,7 @@ A curated list of useful resources, tools, guides, and patterns for working with
 - [Official Resources](#official-resources)
 - [Tutorials & Examples](#tutorials--examples)
 - [Open Source Verified Projects](#open-source-verified-projects)
+- [Certora Tricks](https://github.com/0x180db/awesome-certora/tree/main/tricks)
 
 ## Official Resources
 - [Certora Goes Open Source](https://www.certora.com/blog/certora-goes-open-source)
