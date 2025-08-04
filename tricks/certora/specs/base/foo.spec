@@ -1,0 +1,16 @@
+using Foo as _Foo;
+/////////////////// METHODS ///////////////////////
+methods {
+    function _Foo.foo() external envfree;
+    function _Foo.flag() external returns(bool) envfree;
+
+    function _.bar() external => _Bar.bar() expect void;
+}
+
+///////////////// DEFINITIONS /////////////////////
+
+////////////////// FUNCTIONS //////////////////////
+
+///////////////// GHOSTS & HOOKS //////////////////
+
+///////////////// PROPERTIES //////////////////////

@@ -1,0 +1,17 @@
+using Bar as _Bar;
+
+/////////////////// METHODS ///////////////////////
+methods {
+    function _Bar.bar() external envfree;
+    function _Bar.flag() external returns(bool) envfree;
+
+    function _.foo() external => DISPATCHER(true);
+}
+
+///////////////// DEFINITIONS /////////////////////
+
+////////////////// FUNCTIONS //////////////////////
+
+///////////////// GHOSTS & HOOKS //////////////////
+
+///////////////// PROPERTIES //////////////////////

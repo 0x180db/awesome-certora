@@ -1,3 +1,9 @@
 [submodule "tricks/lib/openzeppelin-contracts"]
 	path = tricks/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "tricks/lib/openzeppelin-foundry-upgrades"]
+	path = tricks/lib/openzeppelin-foundry-upgrades
+	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
+[submodule "tricks/lib/openzeppelin-contracts-upgradeable"]
+	path = tricks/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
