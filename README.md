@@ -8,6 +8,7 @@ A curated list of useful resources, tools, guides, and patterns for working with
 - [Official Resources](#official-resources)
 - [Tutorials & Examples](#tutorials--examples)
 - [Open Source Verified Projects](#open-source-verified-projects)
+- [Style Guides & Best Practices](#style-guides--best-practices)
 - [Certora Tricks](https://github.com/0x180db/awesome-certora/tree/main/tricks)
 
 ## Official Resources
@@ -17,10 +18,14 @@ A curated list of useful resources, tools, guides, and patterns for working with
 
 ## Tutorials & Examples
 - [Formal Verification: Securing ERC-4626 Vaults with Certora Prover](https://zokyo.io/blog/formal-verification-with-certora-prover/)
+
+## Style Guides & Best Practices
+- [Certora Specification Style Guide by AlexZoid](https://alexzoid.com/practical-guide-to-certora-formal-verification-contests)
   
 ## Open Source Verified Projects
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/certora)
 - [Aave V3](https://github.com/aave/aave-v3-core/tree/master/certora)
 - [Morpho Blue Protocol](https://github.com/morpho-org/morpho-blue/tree/main/certora)
-- [Badger eBTC](https://github.com/alexzoid-eth/2023-10-badger-fv/tree/main/certora)
 - [EigenLayer](https://github.com/Layr-Labs/eigenlayer-contracts/tree/main/certora)
+- [Badger eBTC by AlexZoid](https://github.com/alexzoid-eth/2023-10-badger-fv/tree/main/certora)
+- [UniswapV4 Periphery by AlexZoid](https://github.com/alexzoid-eth/uniswap-v4-periphery-cantina-fv)
