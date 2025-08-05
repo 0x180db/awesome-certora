@@ -28,4 +28,4 @@ A curated list of useful resources, tools, guides, and patterns for working with
 - [Morpho Blue Protocol](https://github.com/morpho-org/morpho-blue/tree/main/certora)
 - [EigenLayer](https://github.com/Layr-Labs/eigenlayer-contracts/tree/main/certora)
 - [Badger eBTC by AlexZoid](https://github.com/alexzoid-eth/2023-10-badger-fv/tree/main/certora)
-- [UniswapV4 Periphery by AlexZoid](https://github.com/alexzoid-eth/uniswap-v4-periphery-cantina-fv)
+- [UniswapV4 Periphery by AlexZoid](https://github.com/alexzoid-eth/uniswap-v4-periphery-cantina-fv/tree/main/certora)
