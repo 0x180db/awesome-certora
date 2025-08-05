@@ -20,7 +20,7 @@ A curated list of useful resources, tools, guides, and patterns for working with
 - [Formal Verification: Securing ERC-4626 Vaults with Certora Prover](https://zokyo.io/blog/formal-verification-with-certora-prover/)
 
 ## Style Guides & Best Practices
-- [Certora Specification Style Guide by AlexZoid](https://alexzoid.com/practical-guide-to-certora-formal-verification-contests)
+- [Certora Specification Style Guide by AlexZoid](https://alexzoid.com/certora-formal-verification-practical-guide)
   
 ## Open Source Verified Projects
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/certora)
