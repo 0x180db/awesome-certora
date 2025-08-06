@@ -6,14 +6,12 @@ methods {
 }
 
 rule fooIntegrity(env e) {
+    require(_BarUpgradeable._barStorageSlot == to_bytes32(0x1));
+
     bool fooFlagBefore = _FooUpgradeable.flag();
     uint256 barValueBefore = _BarUpgradeable.value();
+    
     uint256 balanceBefore = _BarUpgradeable.balanceOf(e.msg.sender);
- 
-    // require(_FooUpgradeable.b() == _BarUpgradeable); 
-    // require(_FooUpgradeable.isInitializing());
-    // require(_BarUpgradeable.isInitializing());
-
     foo@withrevert(e);
     bool isReverted = lastReverted;
 
@@ -28,4 +26,3 @@ rule fooIntegrity(env e) {
             && balanceBefore == balanceAfter
     );
 } 
-

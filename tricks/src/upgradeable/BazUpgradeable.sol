@@ -13,7 +13,7 @@ abstract contract BazUpgradeable is ContextUpgradeable {
 
     /// @dev Storage slot for Baz contract state
     // bytes32 private constant _barStorageSlot = bytes32(uint256(0xcdef));
-    bytes32 private immutable _barStorageSlot = bytes32(uint256(0xcdef));
+    bytes32 private immutable _barStorageSlot;
 
     /// @dev Returns the storage struct for Baz contract state
     function _barStorage() private view returns (BazStorage storage $) {
@@ -23,11 +23,15 @@ abstract contract BazUpgradeable is ContextUpgradeable {
         }
     }
 
+    function barStorageSlot() view internal returns(bytes32) {
+        return _barStorageSlot;
+    }
+
     // function initialize(bytes calldata initParams) external;
 
     /// @custom:oz-upgrades-unsafe-allow constructor
     constructor(string memory name_, uint256 version_) {
-        // _barStorageSlot = SlotLibrary.getSlot("BazUpgradeable", name_, version_);
+        _barStorageSlot = SlotLibrary.getSlot("BazUpgradeable", name_, version_);
         _disableInitializers();
     }
 
