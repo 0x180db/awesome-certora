@@ -29,3 +29,4 @@ A curated list of useful resources, tools, guides, and patterns for working with
 - [EigenLayer](https://github.com/Layr-Labs/eigenlayer-contracts/tree/main/certora)
 - [Badger eBTC by AlexZoid](https://github.com/alexzoid-eth/2023-10-badger-fv/tree/main/certora)
 - [UniswapV4 Periphery by AlexZoid](https://github.com/alexzoid-eth/uniswap-v4-periphery-cantina-fv/tree/main/certora)
+- [Lido Dual Governance](https://github.com/lidofinance/dual-governance/tree/main/certora)
