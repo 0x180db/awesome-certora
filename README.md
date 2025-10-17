@@ -17,13 +17,12 @@ A curated list of useful resources, tools, guides, and patterns for working with
 - [Certora Prover GitHub](https://github.com/Certora/CertoraProver)
 
 ## Tutorials & Examples
-- [The Three Prompts of Spec Thinking: Yet Another Lens for Smart Contract Auditing](https://justdravee.github.io/posts/the-3-prompts-of-spec-thinking/#the-three-prompts-of-spec-thinking)
 - [Formal Verification: Securing ERC-4626 Vaults with Certora Prover](https://zokyo.io/blog/formal-verification-with-certora-prover/)
 - [Formal Verification In Practice: Halmos, Hevm, Certora, and Ityfuzz](https://allthingsfuzzy.substack.com/p/formal-verification-in-practice-halmos)
 
 ## Style Guides & Best Practices
 - [Certora Specification Style Guide by AlexZoid](https://alexzoid.com/certora-formal-verification-practical-guide)
-  
+- [The Three Prompts of Spec Thinking: Yet Another Lens for Smart Contract Auditing](https://justdravee.github.io/posts/the-3-prompts-of-spec-thinking/#the-three-prompts-of-spec-thinking)
 ## Open Source Verified Projects
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/certora)
 - [Aave V3](https://github.com/aave/aave-v3-core/tree/master/certora)
