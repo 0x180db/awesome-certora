@@ -18,6 +18,7 @@ A curated list of useful resources, tools, guides, and patterns for working with
 
 ## Tutorials & Examples
 - [Formal Verification: Securing ERC-4626 Vaults with Certora Prover](https://zokyo.io/blog/formal-verification-with-certora-prover/)
+- [Formal Verification In Practice: Halmos, Hevm, Certora, and Ityfuzz](https://allthingsfuzzy.substack.com/p/formal-verification-in-practice-halmos)
 
 ## Style Guides & Best Practices
 - [Certora Specification Style Guide by AlexZoid](https://alexzoid.com/certora-formal-verification-practical-guide)
